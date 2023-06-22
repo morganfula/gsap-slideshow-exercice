@@ -1,3 +1,6 @@
+![Your_Gif_Title](https://media.cleanshot.cloud/media/57090/57o7XCmhYoPKmbIY851ysz839yvcWpq2ez358oGN.gif?Expires=1687490258&Signature=CarPt-G3gzg265L~ALxaZyzW5n-I-G5WA8k9Bf0bPAbVQaeLEt4-bqvv9uTnPpUUjN6m-R1rqA9GRRot8gxDQHmM7oxY1C8fGgJYp8gsOwmoABt5AVziieO6dffluyQKRdscKAH3G7887TxdfRBO-RGxolDV8~49hb6ckSx78~TO0gR1x9rtaDw4exCNse86QY4Z23wo9wCb2pSXTaBguDxYPOqEyBA4lkOdDClZhrIKz6WlPebLMUEYPh8BfMXrOYJrdvQYFHerCoKlzqQHm4CTFisoVVl6ck8JSEMKFQZSizFGxVVhZLqra5gk~Ei6sow0yc1VvQBNQyL3Y5~g3Q__&Key-Pair-Id=K269JMAT9ZF4GZ)
+
+
 # Development Project Guidelines 📚
 
 Hello future developers! 👋 Welcome to our educational development project. This is where you'll apply the knowledge gained from lectures and embark on some real-world coding adventures. 
