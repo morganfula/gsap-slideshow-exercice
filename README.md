@@ -16,7 +16,7 @@ Here are the challenges you'll be tackling:
 
 To aid you on this journey, here are some important resources:
 
-- 🎥 [Lecture]([URL_of_Notion_Page](https://www.notion.so/GSAP-Slideshow-8da85170189c457bb1ed754677fa0335?pvs=4)): Your theoretical foundation.
+- 🎥 [Lecture](https://www.notion.so/GSAP-Slideshow-8da85170189c457bb1ed754677fa0335?pvs=4)): Your theoretical foundation.
 - 💻 [Live Demo](URL_of_Live_Demo): The practical blueprint you'll be recreating.
 - 🏞️ [Advanced Version](URL_of_Advanced_Website): The next level to aspire to.
 - 🌟 [GSAP](GSAP_URL): A tool for creating high-performance animations.
