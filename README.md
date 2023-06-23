@@ -3,7 +3,7 @@
 
 # Development Project Guidelines 📚
 
-Hello future developers! 👋. 
+Hello developers! 👋. 
 
 ## Objectives 🎯
 
