@@ -3,7 +3,7 @@
 
 # Development Project Guidelines 📚
 
-Hello future developers! 👋 Welcome to our educational development project. This is where you'll apply the knowledge gained from lectures and embark on some real-world coding adventures. 
+Hello future developers! 👋. 
 
 ## Objectives 🎯
 
